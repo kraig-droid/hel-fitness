@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://github.com/kraig-droid/hel-fitness/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://github.com/kraig-droid/hel-fitness/</loc>
+</url>
+<url>
+<loc>https://github.com/kraig-droid/hel-fitness/health-and-fitness-studio.html</loc>
+<lastmod>2025-02-04T16:44:36-07:00</lastmod>
+<image:image>
+<image:loc>https://github.com/kraig-droid/hel-fitness/media/posts/1/HEL_studio_overview.jpg</image:loc>
+<image:title><![CDATA[fitness room with man clients in plank position over their yoga mats]]></image:title>
+</image:image>
+</url>
+</urlset>
